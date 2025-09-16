@@ -79,7 +79,7 @@ More of our models can be found at: https://ollama.com/openbuddy
 
 ## High-concurrency Inference using `vllm` in Linux + CUDA GPU environment
 
-Starting form v21, OpenBuddy models have their prompt formats defined in the `tokenizer_config.json` file, allowing for direct deployment using `vllm` to provide an OpenAI-compatible API service.
+Starting from v21, OpenBuddy models have their prompt formats defined in the `tokenizer_config.json` file, allowing for direct deployment using `vllm` to provide an OpenAI-compatible API service.
 
 For more information, please refer to the [vllm documentation](https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html).
 
@@ -114,5 +114,6 @@ We thank [Mr. Su Jianlin](https://kexue.fm/) for his valuable advice during the 
 Our appreciation goes to [flysnow](https://www.flysnow.org/about/) and [jstzwj](https://github.com/jstzwj). They provided valuable advice during the early stages of model development and extended substantial support and assistance in model inference.
 
 At the same time, we also wish to express our gratitude to camera and other enthusiasts of open language models. Their suggestions played a pivotal role in improving the model.
+
 
 Once again, we thank everyone who has contributed to the OpenBuddy project. Our success is inseparable from your support and encouragement.
